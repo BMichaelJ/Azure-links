@@ -31,3 +31,7 @@ Weekly info
 
 Podcasts
 -http://azpodcast.azurewebsites.net/
+
+
+To Do
+--https://blogs.technet.microsoft.com/uktechnet/2018/08/14/build-a-bot-in-under-3-minutes-in-azure/
