@@ -3,6 +3,8 @@ Links to Azure resources
 
 Day to day useful links
 https://azureinfohub.azurewebsites.net/
+http://azureinteractives.azurewebsites.net/
+
 
 
 Training
