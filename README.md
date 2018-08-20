@@ -6,6 +6,9 @@ Day to day useful links
 -http://azureinteractives.azurewebsites.net/
 
 
+CosmosDB
+- https://www.gotcosmos.com/
+
 
 Training
 -https://www.pluralsight.com/paths/microsoft-azure-solutions-architect
