@@ -10,6 +10,7 @@ Books Playbooks
  - Digital
  - AI
  - Etc
+ - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
 
 CosmosDB
 - https://www.gotcosmos.com/
