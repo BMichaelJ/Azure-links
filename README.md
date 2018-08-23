@@ -6,6 +6,11 @@ Day to day useful links
 - http://azureinteractives.azurewebsites.net/
 
 
+Books Playbooks
+ - Digital
+ - AI
+ - Etc
+
 CosmosDB
 - https://www.gotcosmos.com/
 
