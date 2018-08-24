@@ -11,6 +11,13 @@ Books Playbooks
  - AI
  - Etc
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
+ - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
+
+
+ARM
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency
+- https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/
+
 
 CosmosDB
 - https://www.gotcosmos.com/
@@ -25,7 +32,10 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
 Training
--https://www.pluralsight.com/paths/microsoft-azure-solutions-architect
+- https://www.pluralsight.com/paths/microsoft-azure-solutions-architect
+- https://azurecitadel.github.io/
+- https://academy.microsoft.com/en-us/professional-program/tracks/big-data/
+
 
 
 Certifications
