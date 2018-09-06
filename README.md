@@ -33,6 +33,7 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 
 Training
 - https://www.microsoft.com/handsonlabs
+- https://www.youtube.com/watch?v=0GvMwCFhk08 - a company in a day
 - https://www.pluralsight.com/paths/microsoft-azure-solutions-architect
 - https://azurecitadel.github.io/
 - https://academy.microsoft.com/en-us/professional-program/tracks/big-data/
