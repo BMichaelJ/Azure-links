@@ -77,6 +77,7 @@ Microsoft Events
 
 
 
+
 IGNITTE 2018
 COSMOS DB
 - THR2054: Multi-master at global scale with Azure Cosmos DB, 9/24/18, 12:45pm - 1:05pm
