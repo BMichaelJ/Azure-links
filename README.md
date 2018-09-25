@@ -74,3 +74,22 @@ To Do - examples and demos
 
 Microsoft Events
 - https://events.microsoft.com/
+
+
+
+IGNITTE 2018
+COSMOS DB
+- THR2054: Multi-master at global scale with Azure Cosmos DB, 9/24/18, 12:45pm - 1:05pm
+- BRK3158: Technical overview of Azure Cosmos DB, 9/25/18, 9:00am - 10:15am
+- BRK3159: Event driven architecture with Azure Functions and Azure Cosmos DB, 9/25/18, 2:15pm - 3:30pm
+- THR2053: Common data problems solved with graphs using Azure Cosmos DB Gremlin API, 9/25/18, 2:50pm - 3:10pm
+- BRK2184: Azure Cosmos DB for enterprise: Security, compliance, and GDPR, 9/26/18, 9:00am - 9:45am
+- BRK3321: Building Microsoft first-party modern cloud services with Azure Cosmos DB, 9/26/18, 10:45am - 12:00am
+- THR3100: Migrate MongoDB apps to Azure Cosmos DB, 9/26/18, 11:55am - 12:15pm
+- THR2055: Building massively scalable IoT data pipelines with Azure Cosmos DB, 9/26/18, 1:40pm - 2:00pm
+- BRK3184: Modeling data and best practices for the Azure Cosmos DB SQL API , 9/26/18, 2:00pm - 2:45pm
+- BRK3160: How to migrate existing MongoDB and Cassandra apps to Azure Cosmos DB ,9/26/18, 4:00pm - 5:15pm
+- THR2162: Building a turnkey mobile application using Cosmos DB, Azure Functions, and PowerApps, 9/26/18, 5:05pm - 5:25pm
+- BRK4019: Advanced Azure Cosmos DB: Design patterns, tips, and tricks, 9/27/18, 10:45am - 12:00pm
+- BRK3183: Traversing Scalable Graphs with Azure Cosmos DB's Gremlin API, 9/27/18, 2:00pm - 2:45pm
+- BRK4018: Lambda architecture simplified with Azure Cosmos DB and Azure Databricks, 9/28/18, 12:30pm - 1:45pm
