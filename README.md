@@ -18,6 +18,8 @@ ARM
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency
 - https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/
 
+CloudShell Tips
+- https://ridicurious.com/2018/06/27/azure-cloud-shell-on-visual-studio-code/
 
 CosmosDB
 - https://www.gotcosmos.com/
