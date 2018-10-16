@@ -34,6 +34,9 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
 Training
+This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
+- https://github.com/Microsoft/MCW
+
 - https://www.microsoft.com/handsonlabs
 - https://www.youtube.com/watch?v=0GvMwCFhk08 - a company in a day
 - https://www.pluralsight.com/paths/microsoft-azure-solutions-architect
@@ -78,6 +81,19 @@ Microsoft Events
 - https://events.microsoft.com/
 
 
+AI and Cognitive
+
+- https://tinyurl.com/learnai-landscape
+- http://blog.revolutionanalytics.com/2018/10/ignite-ai-announcements.html
+- https://buckwoody.wordpress.com/2018/10/02/syllabuck-ignite-2018-conference/
+- https://azure.microsoft.com/en-us/blog/release-models-at-pace-using-microsoft-s-automl/
+- https://azure.github.io/LearnAI-Bootcamp/
+- https://tinyurl.com/LearnAI-DSVM
+- https://tinyurl.com/LearnAI-MLBootcamp
+- https://gallery.azure.ai
+- https://notebooks.azure.com/
+
+- https://aka.ms/tdsp
 
 
 IGNITTE 2018
