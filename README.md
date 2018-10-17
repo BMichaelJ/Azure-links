@@ -5,6 +5,9 @@ Day to day useful links
 - https://azureinfohub.azurewebsites.net/
 - http://azureinteractives.azurewebsites.net/
 
+Free Resources
+- https://twitter.com/Michael_Jonsson/status/996154062000283648
+
 
 Books Playbooks
  - Digital
@@ -13,6 +16,9 @@ Books Playbooks
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
+
+Azure Data Lake
+- https://blogs.msdn.microsoft.com/azuredatalake/
 
 ARM
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency
@@ -34,8 +40,14 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
 Training
+
+- https://docs.microsoft.com/en-us/learn/
+
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
+
+Learn more about how easy it is to connect all the pieces and build a whole solution using the Azure serverless platform following step-by-step instructions. 
+- https://github.com/Azure-Samples/serverless-workshop
 
 - https://www.microsoft.com/handsonlabs
 - https://www.youtube.com/watch?v=0GvMwCFhk08 - a company in a day
@@ -94,6 +106,9 @@ AI and Cognitive
 - https://notebooks.azure.com/
 
 - https://aka.ms/tdsp
+
+Some AI Tips
+- https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
 
 
 IGNITTE 2018
