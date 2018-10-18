@@ -42,6 +42,7 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 Training
 
 - https://docs.microsoft.com/en-us/learn/
+- https://www.getazureready.com/
 
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
@@ -111,7 +112,7 @@ Some AI Tips
 - https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
 
 
-IGNITTE 2018
+IGNITE 2018
 COSMOS DB
 - THR2054: Multi-master at global scale with Azure Cosmos DB, 9/24/18, 12:45pm - 1:05pm
 - BRK3158: Technical overview of Azure Cosmos DB, 9/25/18, 9:00am - 10:15am
