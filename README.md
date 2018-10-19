@@ -17,6 +17,11 @@ Books Playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
 
+Serverless
+- https://www.serverlesslibrary.net/
+- http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
+
+
 Azure Data Lake
 - https://blogs.msdn.microsoft.com/azuredatalake/
 
