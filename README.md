@@ -118,6 +118,9 @@ Some AI Tips
 - https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
 
 
+Other great links
+- https://github.com/trimstray/the-book-of-secret-knowledge
+
 IGNITE 2018
 COSMOS DB
 - THR2054: Multi-master at global scale with Azure Cosmos DB, 9/24/18, 12:45pm - 1:05pm
