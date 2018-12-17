@@ -50,6 +50,9 @@ Training
 - https://docs.microsoft.com/en-us/learn/
 - https://www.getazureready.com/
 
+Certification tracks on edex
+- https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee
+
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
 
