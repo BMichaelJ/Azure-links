@@ -49,6 +49,7 @@ Training
 
 - https://docs.microsoft.com/en-us/learn/
 - https://www.getazureready.com/
+- https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991ec
 
 Certification tracks on edex
 - https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee
@@ -140,3 +141,12 @@ COSMOS DB
 - BRK4019: Advanced Azure Cosmos DB: Design patterns, tips, and tricks, 9/27/18, 10:45am - 12:00pm
 - BRK3183: Traversing Scalable Graphs with Azure Cosmos DB's Gremlin API, 9/27/18, 2:00pm - 2:45pm
 - BRK4018: Lambda architecture simplified with Azure Cosmos DB and Azure Databricks, 9/28/18, 12:30pm - 1:45pm
+
+
+
+O365 Implementation and Adoption
+- https://teamworktools.azurewebsites.net/
+
+
+Open source project metrics (from github)
+- https://octoverse.github.com/
