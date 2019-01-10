@@ -17,6 +17,9 @@ Books Playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
 
+Azure Architecture
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
+
 Serverless
 - https://www.serverlesslibrary.net/
 - http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
