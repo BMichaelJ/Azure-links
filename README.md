@@ -20,6 +20,9 @@ Books Playbooks
 Azure Architecture
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
 
+Azure ARM Vsualizer
+- http://armviz.io/
+
 Serverless
 - https://www.serverlesslibrary.net/
 - http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
