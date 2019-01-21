@@ -38,6 +38,13 @@ Serverless
 - http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
 
 
+## Security
+[Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - Step by step list for a M365 lab
+
+- https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
+
+
+
 Azure Data Lake
 - https://blogs.msdn.microsoft.com/azuredatalake/
 
@@ -160,9 +167,6 @@ COSMOS DB
 
 
 
-O365 Implementation and Adoption
-- https://teamworktools.azurewebsites.net/
-
 
 Open source project metrics (from github)
 - https://octoverse.github.com/
@@ -171,3 +175,6 @@ Open source project metrics (from github)
 
 # M365 links
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
+
+O365 Implementation and Adoption
+- https://teamworktools.azurewebsites.net/
