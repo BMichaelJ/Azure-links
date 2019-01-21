@@ -5,6 +5,7 @@
 
 
 - [Training](README.md#Training)
+- [Security](README.md#Security)
 
 
 
@@ -39,7 +40,7 @@ Serverless
 
 
 ## Security
-[Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - Step by step list for a M365 lab
+- [Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - Step by step list for a M365 lab
 
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
