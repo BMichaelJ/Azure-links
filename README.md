@@ -156,3 +156,10 @@ O365 Implementation and Adoption
 
 Open source project metrics (from github)
 - https://octoverse.github.com/
+
+
+
+**M365 links
+*Lab Guide
+- https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides
+
