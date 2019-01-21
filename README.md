@@ -4,6 +4,9 @@
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
 
 
+- [Training](README.md#Training)
+
+
 
 
 ### Links to Azure resources
@@ -58,7 +61,7 @@ Smart hotel360
 CredScan to find exposed credentials -> leverage Key Vault and Managed Service Identity to secure... 
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
-Training
+## Training
 
 - https://docs.microsoft.com/en-us/learn/
 - https://www.getazureready.com/
