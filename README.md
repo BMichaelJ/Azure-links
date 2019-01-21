@@ -159,7 +159,6 @@ Open source project metrics (from github)
 
 
 
-**M365 links
-*Lab Guide
-- https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides
+# M365 links
+* [Lab Guide] (https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
 
