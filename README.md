@@ -7,6 +7,7 @@
 - [Training](README.md#Training)
 - [Security](README.md#Security)
 
+- [Events](README.md#Events)
 
 
 
@@ -172,6 +173,9 @@ COSMOS DB
 Open source project metrics (from github)
 - https://octoverse.github.com/
 
+
+# Events
+* [Events](https://events.microsoft.com) - In pearson, online, on-demand events
 
 
 # M365 links
