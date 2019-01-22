@@ -42,6 +42,8 @@ Serverless
 
 ## Security
 - [Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - collection of scripts, tools, extensions, automations, etc. that caters to the end to end Azure subscription and resource security needs
+OR
+- [Official site](https://azsk.azurewebsites.net/)
 
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
