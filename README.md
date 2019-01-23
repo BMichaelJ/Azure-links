@@ -44,7 +44,7 @@ Serverless
 - [Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - collection of scripts, tools, extensions, automations, etc. that caters to the end to end Azure subscription and resource security needs
 OR
 - [Official site](https://azsk.azurewebsites.net/)
-- [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA)
+- [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA) and [guide](https://cloudblogs.microsoft.com/microsoftsecure/2018/06/06/cybersecurity-reference-architecture-security-for-a-hybrid-enterprise/) 
 
 
 
