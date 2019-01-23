@@ -189,8 +189,9 @@ Open source project metrics (from github)
 # M365 links
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
 
-O365 Implementation and Adoption
-- https://teamworktools.azurewebsites.net/
+- [O365_Implementation_and_Adoption](https://teamworktools.azurewebsites.net/)
+
+- [O365 DSC](https://github.com/Microsoft/Office365DSC) - This module allows organizations to automate the deployment, configuration, and monitoring of Office 365 Tenants via PowerShell Desired State Configuration
 
 
 # Events
