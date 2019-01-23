@@ -2,11 +2,11 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
-
-
-- [Training](README.md#Training)
 - [Security](README.md#Security)
-
+- [Devops](README.md#Devops)
+- [Training](README.md#Training)
+- [SQL](README.md#SQL)
+- [M365](README.md#M365 Links)
 - [Events](README.md#Events)
 
 
@@ -44,7 +44,11 @@ Serverless
 - [Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - collection of scripts, tools, extensions, automations, etc. that caters to the end to end Azure subscription and resource security needs
 OR
 - [Official site](https://azsk.azurewebsites.net/)
+- [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA)
 
+
+
+## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
 
@@ -169,6 +173,12 @@ COSMOS DB
 - BRK3183: Traversing Scalable Graphs with Azure Cosmos DB's Gremlin API, 9/27/18, 2:00pm - 2:45pm
 - BRK4018: Lambda architecture simplified with Azure Cosmos DB and Azure Databricks, 9/28/18, 12:30pm - 1:45pm
 
+# SQL
+* [Ola Hallengren](https://ola.hallengren.com) - Maintainance 
+* [Brent Ozar](https://www.brentozar.com/first-aid/) -First Aid kit packed with scripts, worksheets, and checklists 
+* [SQL Stress Test](https://github.com/ErikEJ/SqlQueryStress)
+* [SQLio](https://www.microsoft.com/en-us/download/details.aspx?id=20163) and [guide](https://www.brentozar.com/archive/2008/09/finding-your-san-bottlenecks-with-sqlio/)
+*[diskspd](https://gallery.technet.microsoft.com/DiskSpd-A-Robust-Storage-6ef84e62) and [guide](https://www.brentozar.com/archive/2015/09/getting-started-with-diskspd/)
 
 
 
@@ -176,12 +186,12 @@ Open source project metrics (from github)
 - https://octoverse.github.com/
 
 
-# Events
-* [Events](https://events.microsoft.com) - In pearson, online, on-demand events
-
-
 # M365 links
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
 
 O365 Implementation and Adoption
 - https://teamworktools.azurewebsites.net/
+
+
+# Events
+* [Events](https://events.microsoft.com) - In pearson, online, on-demand events
