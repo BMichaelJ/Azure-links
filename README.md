@@ -6,7 +6,7 @@
 - [Devops](README.md#Devops)
 - [Training](README.md#Training)
 - [SQL](README.md#SQL)
-- [M365](README.md#M365 Links)
+- [M365](README.md#M365_Links)
 - [Events](README.md#Events)
 
 
