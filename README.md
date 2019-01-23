@@ -20,6 +20,9 @@ Day to day useful links
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
 
+- [Azure VMchooser](https://www.vmchooser.com/) - helps you to find the best Azure VM-size match
+ - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
+
 
 Books Playbooks
  - Digital
@@ -45,7 +48,7 @@ Serverless
 OR
 - [Official site](https://azsk.azurewebsites.net/)
 - [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA) and [guide](https://cloudblogs.microsoft.com/microsoftsecure/2018/06/06/cybersecurity-reference-architecture-security-for-a-hybrid-enterprise/) 
-
+- [Azure_Security_best_practises_and_patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
 
 
 ## Devops
@@ -196,3 +199,8 @@ Open source project metrics (from github)
 
 # Events
 * [Events](https://events.microsoft.com) - In pearson, online, on-demand events
+
+
+# Book of News
+- [Connect_2018](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
+- [Ignite_2018](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
