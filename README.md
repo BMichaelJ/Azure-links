@@ -2,6 +2,7 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
+- [Books](README.md#Books)
 - [Azure_IaaS_Inventory_Tools](README.md#Azure-IaaS-Inventory)
 - [Security](README.md#Security)
 - [Devops](README.md#Devops)
@@ -21,7 +22,10 @@ Day to day useful links
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
 
-Books Playbooks
+## Books
+- [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+
+Playbooks
  - Digital
  - AI
  - Etc
