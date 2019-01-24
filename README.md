@@ -2,6 +2,7 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
+- [Azure_IaaS_Inventory_Tools](README.MD#Azure-IaaS-Inventory)
 - [Security](README.md#Security)
 - [Devops](README.md#Devops)
 - [Training](README.md#Training)
@@ -20,16 +21,23 @@ Day to day useful links
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
 
-- [Azure VMchooser](https://www.vmchooser.com/) - helps you to find the best Azure VM-size match
- - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
-
-
 Books Playbooks
  - Digital
  - AI
  - Etc
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
+
+
+## Azure-Iaas-Inventory
+
+- [Export_Azure_VM_Details_to_csv](https://blogs.msdn.microsoft.com/tomholl/2016/11/22/dumping-details-of-azure-virtual-machines-to-csvexcel/)
+
+
+- [Azure VMchooser](https://www.vmchooser.com/) - helps you to find the best Azure VM-size match
+ - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
+
+
 
 
 Azure Architecture
