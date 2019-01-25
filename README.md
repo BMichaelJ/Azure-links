@@ -210,7 +210,7 @@ Open source project metrics (from github)
 
 
 # Events
-* [Events](https://events.microsoft.com) - In pearson, online, on-demand events
+* [Events](https://events.microsoft.com) - In person, online, on-demand events
 
 
 # Book of News
