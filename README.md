@@ -3,7 +3,7 @@
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
 - [Books](README.md#Books)
-- [Azure_IaaS_Inventory_Tools](README.md#Azure-IaaS-Inventory)
+- [Azure IaaS Inventory Tools](README.md#Azure-IaaS-Inventory)
 - [Security](README.md#Security)
 - [Devops](README.md#Devops)
 - [Training](README.md#Training)
