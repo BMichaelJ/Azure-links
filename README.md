@@ -17,7 +17,6 @@
 
 Day to day useful links
 - https://azureinfohub.azurewebsites.net/
-- http://azureinteractives.azurewebsites.net/
 
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
