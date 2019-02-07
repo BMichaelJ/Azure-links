@@ -1,8 +1,0 @@
-StormEvents
-| extend  duration = EndTime - StartTime
-| where duration > 0s
-| where duration < 3h
-| summarize event_count = count()
-    by bin(duration, 5m), State
-| sort by duration asc
-| summarize percentiles(duration, 5, 20, 50, 80, 95) by State
