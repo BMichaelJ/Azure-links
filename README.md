@@ -25,9 +25,13 @@ Free Resources
 - [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
 
 Playbooks
- - Digital
- - AI
- - Etc
+
+Cloud Operating Model helps organizations with a simplified cloud adoption journey with Microsoft Azure. It contains detailed information to cover an end-to-end cloud adoption journey, starting from assessing cloud readiness, to defining business and technology strategy.
+- [Cloud adoption using the Microsoft Cloud Operating Model - Full Document](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-operating-model---full-document/FINAL-Cloud%20Operating%20Model.pdf)
+
+or
+- https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-operating-model---full-document/FINAL-Cloud%20Operating%20Model.pdf
+
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
