@@ -97,6 +97,7 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 ## Training
 
 - https://docs.microsoft.com/en-us/learn/
+- https://github.com/MicrosoftLearning
 - https://www.getazureready.com/
 - https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991ec
 
