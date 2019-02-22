@@ -107,6 +107,9 @@ Certification tracks on edex
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
 
+A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates
+- https://github.com/Microsoft/WhatTheHack
+
 Learn more about how easy it is to connect all the pieces and build a whole solution using the Azure serverless platform following step-by-step instructions. 
 - https://github.com/Azure-Samples/serverless-workshop
 
