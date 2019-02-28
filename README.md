@@ -10,6 +10,7 @@
 - [SQL](README.md#SQL)
 - [M365](README.md#M365_Links)
 - [Events](README.md#Events)
+- [Misc](README.md#Misc)
 
 
 
@@ -17,12 +18,16 @@
 
 Day to day useful links
 - https://azureinfohub.azurewebsites.net/
+- https://azureheatmap.azurewebsites.net/
 
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
 
-## Books
+## Books / Whitepapers
 - [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+
+- https://azureinfohub.azurewebsites.net/MediaType?mediaType=Ebook
+- https://azureinfohub.azurewebsites.net/MediaType?mediaType=Whitepaper
 
 Playbooks
  - Digital
@@ -215,3 +220,10 @@ Open source project metrics (from github)
 # Book of News
 - [Connect_2018](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
 - [Ignite_2018](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
+
+
+# Misc
+
+- [Microsoft Integration Stencils Pack for Visio 2016/2013 v4.0.0](https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0) 
+
+This package contains a set of symbols/icons that will help you visually represent Integration architectures (On-premise, Cloud or Hybrid scenarios) and Cloud solutions diagrams in Visio 2016/2013.
