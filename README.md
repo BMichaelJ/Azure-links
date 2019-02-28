@@ -30,9 +30,13 @@ Free Resources
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Whitepaper
 
 Playbooks
- - Digital
- - AI
- - Etc
+
+Cloud Operating Model helps organizations with a simplified cloud adoption journey with Microsoft Azure. It contains detailed information to cover an end-to-end cloud adoption journey, starting from assessing cloud readiness, to defining business and technology strategy.
+- [Cloud adoption using the Microsoft Cloud Operating Model - Full Document](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-operating-model---full-document/FINAL-Cloud%20Operating%20Model.pdf)
+
+or
+- https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-operating-model---full-document/FINAL-Cloud%20Operating%20Model.pdf
+
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
@@ -98,6 +102,7 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 ## Training
 
 - https://docs.microsoft.com/en-us/learn/
+- https://github.com/MicrosoftLearning
 - https://www.getazureready.com/
 - https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991ec
 
@@ -106,6 +111,9 @@ Certification tracks on edex
 
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
+
+A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates
+- https://github.com/Microsoft/WhatTheHack
 
 Learn more about how easy it is to connect all the pieces and build a whole solution using the Azure serverless platform following step-by-step instructions. 
 - https://github.com/Azure-Samples/serverless-workshop
