@@ -69,6 +69,7 @@ OR
 - [Official site](https://azsk.azurewebsites.net/)
 - [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA) and [guide](https://cloudblogs.microsoft.com/microsoftsecure/2018/06/06/cybersecurity-reference-architecture-security-for-a-hybrid-enterprise/) 
 - [Azure_Security_best_practises_and_patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
+- [Azure Security Best Practices](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
 
 
 ## Devops
