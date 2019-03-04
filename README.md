@@ -237,3 +237,4 @@ Open source project metrics (from github)
 This package contains a set of symbols/icons that will help you visually represent Integration architectures (On-premise, Cloud or Hybrid scenarios) and Cloud solutions diagrams in Visio 2016/2013.
 
 - [MSFT-Hex-Stickers](https://github.com/AnalyticJeremy/MSFT-Hex-Stickers)
+- [Top 50 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/)
