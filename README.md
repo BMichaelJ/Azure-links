@@ -23,6 +23,11 @@ Day to day useful links
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
 
+Azure Virtual Datacenter (http://aka.ms/VDC)
+- https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/
+
+
+
 ## Books / Whitepapers
 - [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
 
