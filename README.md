@@ -34,6 +34,8 @@ Azure Virtual Datacenter (http://aka.ms/VDC)
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Ebook
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Whitepaper
 
+- [Azure Virtual Datacenter](https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/)
+
 Playbooks
 
 Cloud Operating Model helps organizations with a simplified cloud adoption journey with Microsoft Azure. It contains detailed information to cover an end-to-end cloud adoption journey, starting from assessing cloud readiness, to defining business and technology strategy.
