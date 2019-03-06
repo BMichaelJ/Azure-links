@@ -2,11 +2,15 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
-- [Books](README.md#Books)
+- [Books](README.md#Books/Whitepapers)
 - [Azure IaaS Inventory Tools](README.md#Azure-IaaS-Inventory)
+- [Azure IaaS Architecture](README.md#Azure-IaaS-Architecture)
+- [Serverless](README.md#Serverless)
 - [Security](README.md#Security)
 - [Devops](README.md#Devops)
 - [Training](README.md#Training)
+- [AI And Cognitive](README.md#AI_And_Cognitive)
+- [DataPlatform](README.md#DataPlatform)
 - [SQL](README.md#SQL)
 - [M365](README.md#M365_Links)
 - [Events](README.md#Events)
@@ -14,7 +18,7 @@
 
 
 
-### Links to Azure resources
+## Links to Azure resources
 
 Day to day useful links
 - https://azureinfohub.azurewebsites.net/
@@ -27,8 +31,28 @@ Azure Virtual Datacenter (http://aka.ms/VDC)
 - https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/
 
 
+Weekly info
+- http://azureweekly.info/
 
-## Books / Whitepapers
+Podcasts
+- http://azpodcast.azurewebsites.net/
+
+
+Videos
+- https://channel9.msdn.com/Shows/Azure-Friday
+- https://channel9.msdn.com/Shows/Tuesdays-With-Corey
+
+
+To Do - examples and demos
+- https://blogs.technet.microsoft.com/uktechnet/2018/08/14/build-a-bot-in-under-3-minutes-in-azure/
+- https://blogs.technet.microsoft.com/franmer/2018/08/17/azure-custom-vision-in-action/
+
+
+## Books/Whitepapers
+
+- [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
+- [Ignite_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
+
 - [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
 
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Ebook
@@ -57,7 +81,7 @@ or
  - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
 
 
-
+## Azure-IaaS-Architecture
 
 Azure Architecture
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
@@ -65,7 +89,7 @@ Azure Architecture
 Azure ARM Vsualizer
 - http://armviz.io/
 
-Serverless
+## Serverless
 - https://www.serverlesslibrary.net/
 - http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
 
@@ -78,14 +102,12 @@ OR
 - [Azure_Security_best_practises_and_patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
 - [Azure Security Best Practices](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
 
+CredScan to find exposed credentials -> leverage Key Vault and Managed Service Identity to secure... 
+- https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
 ## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
-
-
-Azure Data Lake
-- https://blogs.msdn.microsoft.com/azuredatalake/
 
 ARM
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency
@@ -94,9 +116,6 @@ ARM
 CloudShell Tips
 - https://ridicurious.com/2018/06/27/azure-cloud-shell-on-visual-studio-code/
 
-CosmosDB
-- https://www.gotcosmos.com/
-- http://code.benco.io/serverless-cosmos-lab/
 
 API Browser
 - https://docs.microsoft.com/en-us/rest/api/?view=Azure
@@ -104,8 +123,7 @@ API Browser
 Smart hotel360
 - https://azure.microsoft.com/en-gb/campaigns/smarthotel360/
 
-CredScan to find exposed credentials -> leverage Key Vault and Managed Service Identity to secure... 
-- https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
+
 
 ## Training
 
@@ -133,7 +151,6 @@ Learn more about how easy it is to connect all the pieces and build a whole solu
 - https://academy.microsoft.com/en-us/professional-program/tracks/big-data/
 
 
-
 Certifications
 - https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375147
 
@@ -149,28 +166,7 @@ If you already have exam 70-533 you can take the following transition exam:
 
 
 
-Weekly info
-- http://azureweekly.info/
-
-Podcasts
-- http://azpodcast.azurewebsites.net/
-
-
-Videos
-- https://channel9.msdn.com/Shows/Azure-Friday
-- https://channel9.msdn.com/Shows/Tuesdays-With-Corey
-
-
-To Do - examples and demos
-- https://blogs.technet.microsoft.com/uktechnet/2018/08/14/build-a-bot-in-under-3-minutes-in-azure/
-- https://blogs.technet.microsoft.com/franmer/2018/08/17/azure-custom-vision-in-action/
-
-
-Microsoft Events
-- https://events.microsoft.com/
-
-
-AI and Cognitive
+## AI and Cognitive
 
 - https://tinyurl.com/learnai-landscape
 - http://blog.revolutionanalytics.com/2018/10/ignite-ai-announcements.html
@@ -188,8 +184,14 @@ Some AI Tips
 - https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
 
 
-Other great links
-- https://github.com/trimstray/the-book-of-secret-knowledge
+## DataPlatform
+Azure Data Lake
+- https://blogs.msdn.microsoft.com/azuredatalake/
+
+
+CosmosDB
+- https://www.gotcosmos.com/
+- http://code.benco.io/serverless-cosmos-lab/
 
 IGNITE 2018
 COSMOS DB
@@ -208,7 +210,7 @@ COSMOS DB
 - BRK3183: Traversing Scalable Graphs with Azure Cosmos DB's Gremlin API, 9/27/18, 2:00pm - 2:45pm
 - BRK4018: Lambda architecture simplified with Azure Cosmos DB and Azure Databricks, 9/28/18, 12:30pm - 1:45pm
 
-# SQL
+## SQL
 * [Ola Hallengren](https://ola.hallengren.com) - Maintainance 
 * [Brent Ozar](https://www.brentozar.com/first-aid/) -First Aid kit packed with scripts, worksheets, and checklists 
 * [SQL Stress Test](https://github.com/ErikEJ/SqlQueryStress)
@@ -216,12 +218,7 @@ COSMOS DB
 *[diskspd](https://gallery.technet.microsoft.com/DiskSpd-A-Robust-Storage-6ef84e62) and [guide](https://www.brentozar.com/archive/2015/09/getting-started-with-diskspd/)
 
 
-
-Open source project metrics (from github)
-- https://octoverse.github.com/
-
-
-# M365 links
+## M365 links
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
 
 - [O365_Implementation_and_Adoption](https://teamworktools.azurewebsites.net/)
@@ -229,16 +226,11 @@ Open source project metrics (from github)
 - [O365 DSC](https://github.com/Microsoft/Office365DSC) - This module allows organizations to automate the deployment, configuration, and monitoring of Office 365 Tenants via PowerShell Desired State Configuration
 
 
-# Events
-* [Events](https://events.microsoft.com) - In person, online, on-demand events
+## Events
+* [Events](https://events.microsoft.com) - In person, online, on-demand events/
 
 
-# Book of News
-- [Connect_2018](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
-- [Ignite_2018](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
-
-
-# Misc
+## Misc
 
 - [Microsoft Integration Stencils Pack for Visio 2016/2013 v4.0.0](https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0) 
 
@@ -246,3 +238,10 @@ This package contains a set of symbols/icons that will help you visually represe
 
 - [MSFT-Hex-Stickers](https://github.com/AnalyticJeremy/MSFT-Hex-Stickers)
 - [Top 50 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/)
+
+
+Open source project metrics (from github)
+- https://octoverse.github.com/
+
+Other great links
+- https://github.com/trimstray/the-book-of-secret-knowledge
