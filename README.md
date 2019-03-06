@@ -9,7 +9,7 @@
 - [Security](README.md#Security)
 - [Devops](README.md#Devops)
 - [Training](README.md#Training)
-- [AI And Cognitive](README.md#AI_And_Cognitive)
+- [AI And Cognitive](README.md#ai_and_cognitive)
 - [DataPlatform](README.md#DataPlatform)
 - [SQL](README.md#SQL)
 - [M365](README.md#M365_Links)
