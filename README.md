@@ -2,7 +2,7 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
-- [Books and Whitepapers](README.md#Books_And_Whitepapers)
+- [Books and Whitepapers](README.md#books-and-whitepapers)
 - [Azure IaaS Inventory Tools](README.md#Azure-IaaS-Inventory)
 - [Azure IaaS Architecture](README.md#Azure-IaaS-Architecture)
 - [Serverless](README.md#Serverless)
