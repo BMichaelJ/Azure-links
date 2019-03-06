@@ -2,7 +2,7 @@
 
 ## Chapters
 - [Links to Azure resources](README.md#Links-to-Azure-Resources)
-- [Books](README.md#Books/Whitepapers)
+- [Books and Whitepapers](README.md#Books_And_Whitepapers)
 - [Azure IaaS Inventory Tools](README.md#Azure-IaaS-Inventory)
 - [Azure IaaS Architecture](README.md#Azure-IaaS-Architecture)
 - [Serverless](README.md#Serverless)
@@ -48,7 +48,7 @@ To Do - examples and demos
 - https://blogs.technet.microsoft.com/franmer/2018/08/17/azure-custom-vision-in-action/
 
 
-## Books/Whitepapers
+## Books And Whitepapers
 
 - [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
 - [Ignite_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
