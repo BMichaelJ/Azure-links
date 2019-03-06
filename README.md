@@ -12,7 +12,7 @@
 - [AI And Cognitive](README.md#ai_and_cognitive)
 - [DataPlatform](README.md#DataPlatform)
 - [SQL](README.md#SQL)
-- [M365](README.md#M365_Links)
+- [M365 Links](README.md#m365_links)
 - [Events](README.md#Events)
 - [Misc](README.md#Misc)
 
