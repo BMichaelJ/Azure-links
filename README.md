@@ -33,9 +33,11 @@ Azure Virtual Datacenter (http://aka.ms/VDC)
 
 Weekly info
 - http://azureweekly.info/
+- https://buildazure.com/subscribe/
 
 Podcasts
 - http://azpodcast.azurewebsites.net/
+- http://www.modernitpodcast.com/
 
 
 Videos
