@@ -71,6 +71,13 @@ or
  - https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks
  - https://blogs.partner.microsoft.com/mpn/mpn-new-playbooks-build-successful-cloud-practice/
 
+Containers and Applications
+
+- https://azure.microsoft.com/en-us/resources/designing-distributed-systems/
+- https://azure.microsoft.com/en-us/resources/containerize-your-apps-with-docker-and-kubernetes/
+- https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-service-fabric/en-us/
+
+- https://www.gartner.com/binaries/content/assets/events/keywords/catalyst/catus8/a_guidance_framework_for_architecting.pdf
 
 ## Azure-Iaas-Inventory
 
