@@ -23,6 +23,7 @@
 Day to day useful links
 - https://azureinfohub.azurewebsites.net/
 - https://azureheatmap.azurewebsites.net/
+- https://www.azure-glossary.info/
 
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
