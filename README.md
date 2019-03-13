@@ -115,6 +115,10 @@ OR
 CredScan to find exposed credentials -> leverage Key Vault and Managed Service Identity to secure... 
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 
+GPO to DSC
+- https://github.com/Microsoft/BaselineManagement
+
+
 ## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
@@ -199,6 +203,10 @@ Some AI Tips
 Azure Data Lake
 - https://blogs.msdn.microsoft.com/azuredatalake/
 
+DataBricks
+- https://github.com/caiomsouza/microsoft-azure-databricks-playground
+- https://www.modern-dataengineering.com/blog/azure-databricks-architecture-on-data-lake
+
 
 CosmosDB
 - https://www.gotcosmos.com/
@@ -256,3 +264,6 @@ Open source project metrics (from github)
 
 Other great links
 - https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/sindresorhus/awesome
+- https://github.com/donnemartin/awesome-aws
+
