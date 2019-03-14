@@ -164,7 +164,7 @@ Learn more about how easy it is to connect all the pieces and build a whole solu
 - https://azurecitadel.github.io/
 - https://academy.microsoft.com/en-us/professional-program/tracks/big-data/
 - http://acadaccbootcamp.azurewebsites.net/
-
+- https://cloudsociety.fastlane.live/
 
 Certifications
 - https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375147
