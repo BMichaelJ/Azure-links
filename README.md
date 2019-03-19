@@ -63,6 +63,8 @@ To Do - examples and demos
 
 - [Azure Virtual Datacenter](https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/)
 
+- [Effective DevOps](https://azure.microsoft.com/en-us/resources/effective-devops/)
+
 Playbooks
 
 Cloud Operating Model helps organizations with a simplified cloud adoption journey with Microsoft Azure. It contains detailed information to cover an end-to-end cloud adoption journey, starting from assessing cloud readiness, to defining business and technology strategy.
@@ -121,6 +123,10 @@ GPO to DSC
 
 ## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
+
+- [Azure DevOps Roadmap, shonw as workitems ind actual DevOps Board](https://dev.azure.com/mseng/AzureDevOpsRoadmap/_workitems/recentlyupdated)
+
+- https://azure.microsoft.com/en-us/services/devops/?nav=min
 
 
 ARM
