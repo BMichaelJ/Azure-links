@@ -257,6 +257,11 @@ COSMOS DB
 
 ## Misc
 
+Micrsofot Partner resources
+- https://partner.microsoft.com/en-cy/asset#/
+- https://www.microsoftpartnercommunity.com/
+
+
 - [Microsoft Integration Stencils Pack for Visio 2016/2013 v4.0.0](https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0) 
 
 This package contains a set of symbols/icons that will help you visually represent Integration architectures (On-premise, Cloud or Hybrid scenarios) and Cloud solutions diagrams in Visio 2016/2013.
