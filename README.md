@@ -24,6 +24,7 @@ Day to day useful links
 - https://azureinfohub.azurewebsites.net/
 - https://azureheatmap.azurewebsites.net/
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
+- [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 
 Free Resources
 - https://twitter.com/Michael_Jonsson/status/996154062000283648
