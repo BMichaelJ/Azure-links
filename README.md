@@ -26,13 +26,6 @@ Day to day useful links
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 
-Free Resources
-- https://twitter.com/Michael_Jonsson/status/996154062000283648
-
-Azure Virtual Datacenter (http://aka.ms/VDC)
-- https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/
-
-
 Weekly info
 - http://azureweekly.info/
 - https://buildazure.com/subscribe/
@@ -40,12 +33,24 @@ Weekly info
 Podcasts
 - http://azpodcast.azurewebsites.net/
 - http://www.modernitpodcast.com/
+- https://www.msclouditpropodcast.com/
+- http://www.microsoftcloudshow.com/
+- https://msft.today/podcast/
+
+Blogs
+- https://azure.microsoft.com/en-us/blog/
+- http://azurefabric.com/
 
 
 Videos
 - https://channel9.msdn.com/Shows/Azure-Friday
 - https://channel9.msdn.com/Shows/Tuesdays-With-Corey
 
+Free Resources
+- https://twitter.com/Michael_Jonsson/status/996154062000283648
+
+Azure Virtual Datacenter (http://aka.ms/VDC)
+- https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/
 
 To Do - examples and demos
 - https://blogs.technet.microsoft.com/uktechnet/2018/08/14/build-a-bot-in-under-3-minutes-in-azure/
