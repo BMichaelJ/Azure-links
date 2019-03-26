@@ -90,6 +90,10 @@ Containers and Applications
 
 - https://www.gartner.com/binaries/content/assets/events/keywords/catalyst/catus8/a_guidance_framework_for_architecting.pdf
 
+
+Power BI
+- https://docs.microsoft.com/en-us/power-bi/whitepapers
+
 ## Azure-Iaas-Inventory
 
 - [Export_Azure_VM_Details_to_csv](https://blogs.msdn.microsoft.com/tomholl/2016/11/22/dumping-details-of-azure-virtual-machines-to-csvexcel/)
@@ -266,6 +270,8 @@ COSMOS DB
 Micrsofot Partner resources
 - https://partner.microsoft.com/en-cy/asset#/
 - https://www.microsoftpartnercommunity.com/
+
+- [Micrsofot Azure Datacenter Virtual Tour](https://cloud-platform-assets.azurewebsites.net/datacenter/welcome.html)
 
 
 - [Microsoft Integration Stencils Pack for Visio 2016/2013 v4.0.0](https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0) 
