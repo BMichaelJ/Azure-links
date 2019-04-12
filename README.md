@@ -56,6 +56,7 @@ To Do - examples and demos
 - https://blogs.technet.microsoft.com/uktechnet/2018/08/14/build-a-bot-in-under-3-minutes-in-azure/
 - https://blogs.technet.microsoft.com/franmer/2018/08/17/azure-custom-vision-in-action/
 
+- https://docs.microsoft.com/en-us/azure/architecture/example-scenario/
 
 ## Books And Whitepapers
 
