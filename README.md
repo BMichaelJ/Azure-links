@@ -12,6 +12,7 @@
 - [AI And Cognitive](README.md#ai-and-cognitive)
 - [DataPlatform](README.md#DataPlatform)
 - [SQL](README.md#SQL)
+- [Containers](README.md#Containers)
 - [M365 Links](README.md#m365-links)
 - [Events](README.md#Events)
 - [Misc](README.md#Misc)
@@ -252,6 +253,12 @@ COSMOS DB
 * [SQL Stress Test](https://github.com/ErikEJ/SqlQueryStress)
 * [SQLio](https://www.microsoft.com/en-us/download/details.aspx?id=20163) and [guide](https://www.brentozar.com/archive/2008/09/finding-your-san-bottlenecks-with-sqlio/)
 *[diskspd](https://gallery.technet.microsoft.com/DiskSpd-A-Robust-Storage-6ef84e62) and [guide](https://www.brentozar.com/archive/2015/09/getting-started-with-diskspd/)
+
+## Containers
+
+Want to learn #Kubernetes but don't know where to start? Check out our Kubernetes learning path. Don't be put off by the "50 days" part - day 1 only takes 6 minutes so there's plenty of opportunity for keeners to finish faster. 
+
+- https://t.co/FDTX8lsDOx
 
 
 ## M365 links
