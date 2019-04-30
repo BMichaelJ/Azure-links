@@ -59,6 +59,11 @@ To Do - examples and demos
 
 - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/
 
+
+Microsoft Datacenter Migration Program Kit (DCM Kit)
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey
+- https://github.com/Microsoft/dcmkit
+
 ## Books And Whitepapers
 
 - [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
@@ -131,6 +136,9 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 
 GPO to DSC
 - https://github.com/Microsoft/BaselineManagement
+
+Azure Security Center Data Flow
+- https://gallery.technet.microsoft.com/Azure-Security-Center-Data-1c2d42e4
 
 
 ## Devops
