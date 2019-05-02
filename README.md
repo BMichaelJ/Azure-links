@@ -76,6 +76,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 - [Azure Virtual Datacenter](https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/)
 
+- [Resiliency in Azure IaaS](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
+
 - [Effective DevOps](https://azure.microsoft.com/en-us/resources/effective-devops/)
 
 Playbooks
