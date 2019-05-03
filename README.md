@@ -142,6 +142,8 @@ GPO to DSC
 Azure Security Center Data Flow
 - https://gallery.technet.microsoft.com/Azure-Security-Center-Data-1c2d42e4
 
+Microsoft Security Risk Detection - Security Risk Detection is Microsoft's unique fuzz testing service for finding security critical bugs in software. Security Risk Detection helps customers quickly adopt practices and technology battle-tested over the last 15 years at Microsoft.
+- https://www.microsoft.com/en-us/security-risk-detection
 
 ## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
