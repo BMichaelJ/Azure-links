@@ -66,6 +66,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 ## Books And Whitepapers
 
+- [Build_2019 Book of News](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019-5.6.19-2.pdf)
 - [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
 - [Ignite_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
 
@@ -132,6 +133,10 @@ OR
 - [Microsoft Cyber Security Reference Architecture](https://aka.ms/MCRA) and [guide](https://cloudblogs.microsoft.com/microsoftsecure/2018/06/06/cybersecurity-reference-architecture-security-for-a-hybrid-enterprise/) 
 - [Azure_Security_best_practises_and_patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
 - [Microsoft’s recommendations for password management](https://www.microsoft.com/en-us/research/publication/password-guidance/)
+
+
+- [Microsoft Azure Security and Compliance](https://blogs.msdn.microsoft.com/azuresecurity/)
+
 
 CredScan to find exposed credentials -> leverage Key Vault and Managed Service Identity to secure... 
 - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
@@ -227,6 +232,9 @@ If you already have exam 70-533 you can take the following transition exam:
 
 Some AI Tips
 - https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
+
+Congnitive Search
+- https://github.com/Azure-Samples/azure-search-knowledge-mining
 
 
 ## DataPlatform
