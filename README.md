@@ -66,7 +66,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 ## Books And Whitepapers
 
-- [Build_2019 Book of News](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019-5.6.19-2.pdf)
+- [Build_2019 Book of News](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019.pdf)
+- https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019-5.6.19-2.pdf Embargo pre final one
 - [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
 - [Ignite_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
 
