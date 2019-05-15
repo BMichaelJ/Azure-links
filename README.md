@@ -219,6 +219,8 @@ If you already have exam 70-533 you can take the following transition exam:
 
 ## AI and Cognitive
 
+*[Periodic_Table_of_Cognitive_Services](https://ai.jumpto365.com/)
+
 - https://tinyurl.com/learnai-landscape
 - http://blog.revolutionanalytics.com/2018/10/ignite-ai-announcements.html
 - https://buckwoody.wordpress.com/2018/10/02/syllabuck-ignite-2018-conference/
@@ -283,6 +285,9 @@ Want to learn #Kubernetes but don't know where to start? Check out our Kubernete
 
 
 ## M365 links
+
+* [Periodic Table of O365](https://app.jumpto365.com/)
+
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
 
 - [O365_Implementation_and_Adoption](https://teamworktools.azurewebsites.net/)
