@@ -242,7 +242,7 @@ Some AI Tips
 Congnitive Search
 - https://github.com/Azure-Samples/azure-search-knowledge-mining
 
-##IoT
+## IoT
 - [IoT School](https://iotschool.microsoft.com/en-us/home)
 
 ## DataPlatform
