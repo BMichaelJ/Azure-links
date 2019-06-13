@@ -34,10 +34,21 @@ Weekly info
 
 Podcasts
 - http://azpodcast.azurewebsites.net/
-- http://www.modernitpodcast.com/
+- https://www.microsoft.com/en-us/behind-the-tech
+- https://www.microsoft.com/en-us/research/blog/category/podcast/
+- https://cloudskills.fm/
+- https://www.hanselminutes.com/
 - https://www.msclouditpropodcast.com/
 - http://www.microsoftcloudshow.com/
 - https://msft.today/podcast/
+- https://dotnetrocks.com/
+- https://github.com/DanielLarsenNZ/azure-lunch
+- http://www.modernitpodcast.com/
+- http://azurehackdc.azurewebsites.net/category/podcast/
+- http://runasradio.com/
+- http://www.azureflashnews.com/
+- http://azuredevopspodcast.clear-measure.com/
+
 
 Blogs
 - https://azure.microsoft.com/en-us/blog/
