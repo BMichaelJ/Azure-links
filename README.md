@@ -122,6 +122,8 @@ Power BI
 - [Export_Azure_VM_Details_to_csv](https://blogs.msdn.microsoft.com/tomholl/2016/11/22/dumping-details-of-azure-virtual-machines-to-csvexcel/)
 
 
+- https://techielass.com/pricing-up-your-environment
+
 - [Azure VMchooser](https://www.vmchooser.com/) - helps you to find the best Azure VM-size match
  - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
 
@@ -190,6 +192,7 @@ Smart hotel360
 ## Training
 
 - https://docs.microsoft.com/en-us/learn/
+- https://techsnips.io
 - https://github.com/MicrosoftLearning
 - https://www.getazureready.com/
 - https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991echttps://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
