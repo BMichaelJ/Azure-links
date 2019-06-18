@@ -83,6 +83,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - [Connect_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/543/2018/12/Connect-2018-Book-of-News_.pdf)
 - [Ignite_2018 Book of News](https://news.microsoft.com/uploads/prod/sites/507/2018/09/IGNITEBOOKOFNEWS-5ba95469d658b.pdf)
 
+- [FinOps](https://sway.office.com/1qZwGxVuQnHoZMac)
+
 - [Azure_for_Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
 
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Ebook
