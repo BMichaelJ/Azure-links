@@ -275,6 +275,7 @@ CosmosDB
 
 - https://www.gotcosmos.com/
 - http://code.benco.io/serverless-cosmos-lab/
+- https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-provision-database-throughput
 
 
 
