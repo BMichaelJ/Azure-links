@@ -76,6 +76,10 @@ Microsoft Datacenter Migration Program Kit (DCM Kit)
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey
 - https://github.com/Microsoft/dcmkit
 
+
+Both the Global Customer Playbook and the Global Connection Toolkit will continue to be updated with more migration scenarios and design patterns, with the intention of staying aligned with the ever-changing customer needs and the new service landing status of China Azure
+- https://globalcustomerplaybook.azurewebsites.net/
+
 ## Books And Whitepapers
 
 - [Build_2019 Book of News](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019.pdf)
@@ -160,6 +164,9 @@ CredScan to find exposed credentials -> leverage Key Vault and Managed Service I
 
 GPO to DSC
 - https://github.com/Microsoft/BaselineManagement
+
+Azure Security Center PoC
+- https://techcommunity.microsoft.com/t5/Security-Identity/How-to-Effectively-Perform-an-Azure-Security-Center-PoC/td-p/516874
 
 Azure Security Center Data Flow
 - https://gallery.technet.microsoft.com/Azure-Security-Center-Data-1c2d42e4
