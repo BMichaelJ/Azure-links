@@ -28,6 +28,9 @@ Day to day useful links
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 
+Azure - Where is my Data?
+- https://azuredatacentermap.azurewebsites.net/
+
 Weekly info
 - http://azureweekly.info/
 - https://buildazure.com/subscribe/
@@ -95,6 +98,7 @@ Both the Global Customer Playbook and the Global Connection Toolkit will continu
 - https://azureinfohub.azurewebsites.net/MediaType?mediaType=Whitepaper
 
 - [Azure Virtual Datacenter](https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter/)
+- https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf
 
 - [Resiliency in Azure IaaS](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
 
@@ -174,6 +178,10 @@ Azure Security Center Data Flow
 Microsoft Security Risk Detection - Security Risk Detection is Microsoft's unique fuzz testing service for finding security critical bugs in software. Security Risk Detection helps customers quickly adopt practices and technology battle-tested over the last 15 years at Microsoft.
 - https://www.microsoft.com/en-us/security-risk-detection
 
+App Locker / Aaron Locker
+- https://github.com/Microsoft/AaronLocker
+- https://blogs.msdn.microsoft.com/aaron_margosis/2018/06/26/announcing-application-whitelisting-with-aaronlocker/
+
 ## Devops
 - https://azure.microsoft.com/en-us/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
 
@@ -214,6 +222,10 @@ This is the top level repository for the Microsoft Cloud Workshop (MCW) project.
 
 A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates
 - https://github.com/Microsoft/WhatTheHack
+
+
+Azure Data Platform End2End
+- https://github.com/fabragaMS/ADPE2E
 
 Learn more about how easy it is to connect all the pieces and build a whole solution using the Azure serverless platform following step-by-step instructions. 
 - https://github.com/Azure-Samples/serverless-workshop
@@ -331,6 +343,9 @@ This package contains a set of symbols/icons that will help you visually represe
 - [MSFT-Hex-Stickers](https://github.com/AnalyticJeremy/MSFT-Hex-Stickers)
 - [Top 50 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/)
 
+
+Compare the Clouds
+- http://comparecloud.in/
 
 Open source project metrics (from github)
 - https://octoverse.github.com/
