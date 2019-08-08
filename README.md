@@ -314,6 +314,7 @@ Want to learn #Kubernetes but don't know where to start? Check out our Kubernete
 
 ## M365 links
 
+* https://aka.ms/mfasetup - Link for changing/updating the Authentication for MFA
 * [Periodic Table of O365](https://app.jumpto365.com/)
 
 * [Lab Guide](https://docs.microsoft.com/en-us/microsoft-365/enterprise/m365-enterprise-test-lab-guides) - Step by step list for a M365 lab
