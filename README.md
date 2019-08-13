@@ -31,6 +31,9 @@ Day to day useful links
 Azure - Where is my Data?
 - https://azuredatacentermap.azurewebsites.net/
 
+Azure Comliance Overview
+- https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942
+
 Weekly info
 - http://azureweekly.info/
 - https://buildazure.com/subscribe/
