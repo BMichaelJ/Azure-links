@@ -298,6 +298,9 @@ DataBricks
 CosmosDB
 - [Setup and Get Started](http://azurefabric.com/cosmosdb-some-setup-and-quick-get-started-tips/)
 
+Labs
+- https://cosmosdb.github.io/labs/
+
 - https://www.gotcosmos.com/
 - http://code.benco.io/serverless-cosmos-lab/
 - https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-provision-database-throughput
