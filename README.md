@@ -149,6 +149,9 @@ Azure Architecture
 Azure ARM Vsualizer
 - http://armviz.io/
 
+An Open Source Azure Concept
+- https://github.com/azureprofessional/azure-concept
+
 ## Serverless
 - https://www.serverlesslibrary.net/
 - http://azurefabric.com/getting-started-with-serverless-in-azure-with-azure-functions/
@@ -215,10 +218,10 @@ Smart hotel360
 - https://techsnips.io
 - https://github.com/MicrosoftLearning
 - https://www.getazureready.com/
-- https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991echttps://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
+- https://handsonlabs-r.azurewebsites.net/_lrsc=28aa2027-88e7-4170-806f-0be8c0d991ec
 Certification tracks on edex
 - https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee
-- https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
+- https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ - Azure Academy by Dean Cefola
 
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
