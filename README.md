@@ -339,6 +339,15 @@ Want to learn #Kubernetes but don't know where to start? Check out our Kubernete
 
 ## Misc
 
+Azure Slack Channels
+
+AzureFabric Slack Channel
+- https://join.slack.com/t/azurefabric/shared_invite/enQtNzQzMTY4MDk0ODE2LTU4NzZiY2EyNWYyZmE2MjNlNDQxMTJkYmMxMzc2MDQwMGE3NjZmNWIwNDY1OWEzODI1YWRkNGMyNmIwYjdlM2M
+
+Other tips on Azure slack channels
+- https://thomasthornton.cloud/2019/01/14/azure-slack-channels/
+
+
 Micrsofot Partner resources
 - https://partner.microsoft.com/en-cy/asset#/
 - https://www.microsoftpartnercommunity.com/
