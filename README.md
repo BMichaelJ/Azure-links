@@ -28,10 +28,11 @@ Day to day useful links
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 
+
 Azure - Where is my Data?
 - https://azuredatacentermap.azurewebsites.net/
 
-Azure Comliance Overview
+Azure Compliance Overview
 - https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942
 
 Weekly info
@@ -352,12 +353,19 @@ Micrsofot Partner resources
 - https://partner.microsoft.com/en-cy/asset#/
 - https://www.microsoftpartnercommunity.com/
 
-- [Micrsofot Azure Datacenter Virtual Tour](https://cloud-platform-assets.azurewebsites.net/datacenter/welcome.html)
+- [Microsoft Azure Datacenter Virtual Tour](https://cloud-platform-assets.azurewebsites.net/datacenter/welcome.html)
 
+ICONS
+Azure
+- https://github.com/David-Summers/Azure-Design
+- https://www.microsoft.com/en-us/download/details.aspx?id=41937
 
-- [Microsoft Integration Stencils Pack for Visio 2016/2013 v4.0.0](https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0) 
+AWS
+https://aws.amazon.com/architecture/icons/
 
-This package contains a set of symbols/icons that will help you visually represent Integration architectures (On-premise, Cloud or Hybrid scenarios) and Cloud solutions diagrams in Visio 2016/2013.
+GCP
+https://cloud.google.com/icons/
+
 
 - [MSFT-Hex-Stickers](https://github.com/AnalyticJeremy/MSFT-Hex-Stickers)
 - [Top 50 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/)
