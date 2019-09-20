@@ -218,6 +218,7 @@ Smart hotel360
 
 ## Training
 
+- https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/ Azure in month of Lunches
 - https://docs.microsoft.com/en-us/learn/
 - https://techsnips.io
 - https://github.com/MicrosoftLearning
