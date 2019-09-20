@@ -136,13 +136,16 @@ Power BI
 - [Export_Azure_VM_Details_to_csv](https://blogs.msdn.microsoft.com/tomholl/2016/11/22/dumping-details-of-azure-virtual-machines-to-csvexcel/)
 
 
-- https://techielass.com/pricing-up-your-environment
+- https://techielass.com/pricing-up-your-environment - Blog on migration and pricing
 
 - [Azure VMchooser](https://www.vmchooser.com/) - helps you to find the best Azure VM-size match
- - [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
+- [Azure Price Calculator](https://azprice.info/) - Azure Price calculator allows you to calculate all your environment at once without spending hours for searching a price for each particular virtual machine.
 
+- https://azureprice.net/
 
 ## Azure-IaaS-Architecture
+
+- https://the.agilesql.club/whattheio/calculator - This calculator takes the Azure Disk and Virtual Machine IO throttle limits and puts them into a handy calculator so you can see what sort of performance you could *theoretically* get by changing the disks, the type of caching or the type of machine
 
 Azure Architecture
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
