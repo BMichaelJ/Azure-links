@@ -361,8 +361,14 @@ Micrsofot Partner resources
 - [Microsoft Azure Datacenter Virtual Tour](https://cloud-platform-assets.azurewebsites.net/datacenter/welcome.html)
 
 ICONS
+
+- http://azurefabric.com/azure-and-other-clouds-icon-hunt/ : Blog about the Icons
+
 Azure
+- https://chrome.google.com/webstore/detail/amazing-icon-downloader/kllljifcjfleikiipbkdcgllbllahaob/ - Amazing Icon downloader
 - https://github.com/David-Summers/Azure-Design
+- https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio
+- https://github.com/azurekid/Azure-Stencils
 - https://www.microsoft.com/en-us/download/details.aspx?id=41937
 
 AWS
