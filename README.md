@@ -375,6 +375,7 @@ Azure
 - https://github.com/David-Summers/Azure-Design
 - https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio
 - https://github.com/azurekid/Azure-Stencils
+- https://code.benco.io/icon-collection/
 - https://www.microsoft.com/en-us/download/details.aspx?id=41937
 
 AWS
