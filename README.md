@@ -162,6 +162,8 @@ An Open Source Azure Concept
 
 
 ## Security
+-[Trusted Cloud: Microsoft Azure security, privacy, compliance, resiliency, and protected IP](https://azure.microsoft.com/en-us/blog/trusted-cloud-security-privacy-compliance-resiliency-and-ip/) 
+
 - [Azure Security DevOps Kit](https://github.com/azsk/DevOpsKit-docs) - collection of scripts, tools, extensions, automations, etc. that caters to the end to end Azure subscription and resource security needs
 OR
 - [Official site](https://azsk.azurewebsites.net/)
