@@ -27,6 +27,7 @@ Day to day useful links
 - https://azureheatmap.azurewebsites.net/
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
+- [Azure Readiness checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist)
 
 
 Azure - Where is my Data?
