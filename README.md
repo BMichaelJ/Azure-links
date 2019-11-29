@@ -267,10 +267,8 @@ Learn more about how easy it is to connect all the pieces and build a whole solu
 - https://azure.microsoft.com/en-us/blog/release-models-at-pace-using-microsoft-s-automl/
 - https://azure.github.io/LearnAI-Bootcamp/
 - https://tinyurl.com/LearnAI-DSVM
-- https://tinyurl.com/LearnAI-MLBootcamp
 - https://gallery.azure.ai
 - https://notebooks.azure.com/
-
 - https://aka.ms/tdsp
 
 Some AI Tips
