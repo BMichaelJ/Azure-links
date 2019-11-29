@@ -255,6 +255,9 @@ Learn more about how easy it is to connect all the pieces and build a whole solu
 - https://azurecitadel.github.io/
 - https://cloudsociety.fastlane.live/
 
+Certifications
+- https://www.microsoft.com/en-us/learning/certification-overview.aspx
+
 ## AI and Cognitive
 
 - [AI School](https://aischool.microsoft.com/en-us/home) 
