@@ -226,12 +226,11 @@ Smart hotel360
 
 ## Training
 
-- https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/ Azure in month of Lunches
 - https://docs.microsoft.com/en-us/learn/
+- https://microsoft.azure-academy.com/
+- https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/ Azure in month of Lunches
 - https://techsnips.io
 - https://github.com/MicrosoftLearning
-- 
-- 
 - https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee
 - https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ - Azure Academy by Dean Cefola
 - https://github.com/gmsantos/azure-data-engineer-exams-prep Preparation resources for exams DP-200 and DP-201
