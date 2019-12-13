@@ -261,7 +261,7 @@ Certifications
 ## AI and Cognitive
 
 - [AI School](https://aischool.microsoft.com/en-us/home) 
-- [AI Lab](https://www.microsoft.com/en-us/ai/ai-lab)
+- [AI Lab](https://www.microsoft.com/en-us/ai/ai-lab) Example [Gen Studio](https://gen.studio/) [openSourced](https://github.com/Microsoft/GenStudio)
 - https://gallery.azure.ai
 - https://notebooks.azure.com/
 - https://aka.ms/tdsp
