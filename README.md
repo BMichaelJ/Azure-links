@@ -261,6 +261,10 @@ Certifications
 ## AI and Cognitive
 
 - [AI School](https://aischool.microsoft.com/en-us/home) 
+- [AI Lab](https://www.microsoft.com/en-us/ai/ai-lab)
+- https://gallery.azure.ai
+- https://notebooks.azure.com/
+- https://aka.ms/tdsp
 
 - [Periodic_Table_of_Cognitive_Services](https://ai.jumpto365.com/)
 
@@ -270,9 +274,7 @@ Certifications
 - https://azure.microsoft.com/en-us/blog/release-models-at-pace-using-microsoft-s-automl/
 - https://azure.github.io/LearnAI-Bootcamp/
 - https://tinyurl.com/LearnAI-DSVM
-- https://gallery.azure.ai
-- https://notebooks.azure.com/
-- https://aka.ms/tdsp
+
 
 Some AI Tips
 - https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/09/19/some-recommendations-for-budding-machine-learning-engineers/
