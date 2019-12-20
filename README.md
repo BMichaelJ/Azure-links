@@ -284,6 +284,7 @@ Congnitive Search
 
 ## IoT
 - [IoT School](https://iotschool.microsoft.com/en-us/home)
+- [Azure Certified IoT devices](https://catalog.azureiotsolutions.com/)
 
 ## DataPlatform
 Azure Data Lake
