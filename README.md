@@ -28,6 +28,8 @@ Day to day useful links
 - https://www.azure-glossary.info/ (Same for AWS - https://www.aws-glossary.info/)
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 - [Azure Readiness checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist)
+- https://github.com/MicrosoftDocs/azure-docs/tree/master/articles
+
 
 
 Azure - Where is my Data?
@@ -265,6 +267,7 @@ Certifications
 - https://gallery.azure.ai
 - https://notebooks.azure.com/
 - https://aka.ms/tdsp
+- https://github.com/dotnet/machinelearning-samples
 
 - [Periodic_Table_of_Cognitive_Services](https://ai.jumpto365.com/)
 
