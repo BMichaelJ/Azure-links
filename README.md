@@ -29,6 +29,7 @@ Day to day useful links
 - [A visual representation of the Azure Services](https://nnmer.github.io/azure-services-map/dist/) Try the view!
 - [Azure Readiness checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist)
 - https://github.com/MicrosoftDocs/azure-docs/tree/master/articles
+- [Azure Builting Policy change tracker](https://www.azadvertizer.net/index.html)
 
 
 
