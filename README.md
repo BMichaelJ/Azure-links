@@ -237,6 +237,7 @@ Smart hotel360
 - https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee
 - https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ - Azure Academy by Dean Cefola
 - https://github.com/gmsantos/azure-data-engineer-exams-prep Preparation resources for exams DP-200 and DP-201
+- https://github.com/ddneves/awesome-azure-learning/
 
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos. This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 - https://github.com/Microsoft/MCW
