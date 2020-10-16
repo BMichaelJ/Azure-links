@@ -228,7 +228,7 @@ Smart hotel360
 
 
 ## Training
-
+- https://microsoft.github.io/PartsUnlimited/
 - https://docs.microsoft.com/en-us/learn/
 - https://microsoft.azure-academy.com/
 - https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/ Azure in month of Lunches
